@@ -55,8 +55,51 @@
 
 ---
 
+### ⚙️ `Add a new forest` and give a top level domain name. `e.g - abcdefg.com, edu, org or something`
+<p align="center"><img src="https://github.com/user-attachments/assets/3c28c3ea-071e-4059-ba8c-038af95d31fe"></p>
 
-Create a new forest and give a top level domain name such as something.com, .net, etc. (I use TheRadiant.local in this case)
+---
+
+### ⚙️ Give a `password` and Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/198796ec-b110-4f55-840c-b1e07d97b026"></p>
+
+---
+
+#### Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/eec613f8-fad8-4eb4-a0a7-49d1e3f3c404"></p>
+
+---
+
+#### Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/24028e60-cdde-46fe-9e82-507a614c05f8"></p>
+
+---
+
+### In this case, 
+> I highly recommended to move the Database and Log files to a separate physical drive (other than the C: drive) to improve performance and prevent the system volume from running out of space. `But this is the lab envrionment, you can do whatever you want.`
+
+* Database folder path: Stores the NTDS.dit file. This is the heart of Active Directory, containing all domain data, user objects, passwords, and group memberships.
+
+* Log files folder path: Stores the transaction logs for the database. These logs record changes to the AD database before they are committed, ensuring data integrity in the event of a system crash.
+
+* SYSVOL folder path: A shared directory that stores the domain’s public files, primarily Group Policy Objects (GPOs) and logon/logoff scripts. This folder is replicated to all other Domain Controllers in the domain.
+### ⚙️ Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/27d881b5-643a-4b84-8ef5-48663aa19cc4"></p>
+
+---
+
+### ⚙️ Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/d13b8451-776a-4509-bceb-01cf38c6d4cc"></p>
+
+---
+
+### ⚙️ Click `Install`
+<p align="center"><img src="https://github.com/user-attachments/assets/9ffa3502-96b7-4a68-ad03-534024f989e2"></p>
+
+---
+
+
+
 
 
 
