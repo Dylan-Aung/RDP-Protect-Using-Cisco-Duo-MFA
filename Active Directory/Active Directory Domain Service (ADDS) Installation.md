@@ -38,4 +38,28 @@
 ### ⚙️ Just Click `Next`
 <p align="center"><img src="https://github.com/user-attachments/assets/d116828d-43c3-42c9-84a8-7516121dbdf7"></p>
 
+---
+
+### ⚙️ Click `Install` and wait for it
+<p align="center"><img src="https://github.com/user-attachments/assets/31b02fae-6762-422e-a003-90adba98bbe4"></p>
+
+---
+
+### ⚙️ When installation finished, you need to promote in Domian Controller and Click `Close`
+<p align="center"><img src="https://github.com/user-attachments/assets/f147b949-020c-4f45-8692-e1428117501e"></p>
+
+---
+
+### ⚙️ Go back to Server Manager Dashboard, you will see the notification flag and Click `Promote this server to a domain controller`
+<p align="center"><img src="https://github.com/user-attachments/assets/3d78f416-cdba-43da-a4b9-0211eb447898"></p>
+
+---
+
+
+Create a new forest and give a top level domain name such as something.com, .net, etc. (I use TheRadiant.local in this case)
+
+
+
+
+
 
