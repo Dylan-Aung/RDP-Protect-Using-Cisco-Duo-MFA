@@ -98,7 +98,13 @@
 
 ---
 
+### ⚙️ This notification pop up and server will restart
+<p align="center"><img src="https://github.com/user-attachments/assets/08795410-9443-46b5-bbd8-ea37a701b597"></p>
 
+---
+
+### ⚙️ After the restart, you will see the domain name MSFTWS22TESTING\Administrator which indicates ADDS is successfully installed and promoted to a domain controller. You can now start adding users and groups to your domain.
+<p align="center"><img src="https://github.com/user-attachments/assets/734b198a-86b1-45a9-a58b-9e48037e0ba3"></p>
 
 
 
