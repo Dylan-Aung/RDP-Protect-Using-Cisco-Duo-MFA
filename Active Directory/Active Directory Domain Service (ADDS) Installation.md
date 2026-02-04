@@ -10,11 +10,32 @@
 
 ---
 
-### ⚙️ Click `"Next"`
+### ⚙️ Click `Next`
 <p align="center"><img src="https://github.com/user-attachments/assets/18a88424-29ff-4366-8402-e1baf472fde3"></p>
 
 ---
 
-### ⚙️ Select `"Role-based or feature-based installation"` and Click `"Next"`
+### ⚙️ Select `"Role-based or feature-based installation"` and Click `Next`
 <p align="center"><img src="https://github.com/user-attachments/assets/b36cd6db-3d6c-48a8-8608-f76d6de437b1"></p>
+
+---
+
+### ⚙️ Choose `WS2022-AD` and Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/85bac9dc-fa70-4052-a618-3628a10f2ef1"></p>
+
+---
+
+### ⚙️ Check in the box `Active Directory Domain Services`, `Add Features` and Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/668964c3-9028-4923-9801-6c95aa626bba"></p>
+
+---
+
+### ⚙️ No need to check any boxes and Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/d7155648-c45d-4717-a62c-d1f1e87e2e05"></p>
+
+---
+
+### ⚙️ Just Click `Next`
+<p align="center"><img src="https://github.com/user-attachments/assets/d116828d-43c3-42c9-84a8-7516121dbdf7"></p>
+
 
