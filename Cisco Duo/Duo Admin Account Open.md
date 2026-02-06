@@ -45,7 +45,7 @@ This prevents attackers from accessing systems even if credentials are stolen vi
 <img width="326" height="424" alt="image" src="https://github.com/user-attachments/assets/53d0cabf-e7b0-4529-a3d4-74ded0e771e7" />
 
 ---
-<p align="left"><img src="https://github.com/user-attachments/assets/ef96017d-bd2c-4398-b8ef-32771d110899"></p>
+<p align="Center"><img src="https://github.com/user-attachments/assets/ef96017d-bd2c-4398-b8ef-32771d110899"></p>
 <p align="right"><img src="https://github.com/user-attachments/assets/8a5500ba-64e0-46fc-a8f5-52008fe47462"></p>
 <p align="center"><img src="https://github.com/user-attachments/assets/a5bf08bc-1ac9-4d85-9f0c-424750d71234"></p>
 
