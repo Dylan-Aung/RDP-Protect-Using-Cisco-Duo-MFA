@@ -43,19 +43,10 @@ Other options:
 - **Disabled** – Blocks user access
 
 Best practice: keep the group set to **Active**.
+
 <p align="center"><img src="https://github.com/user-attachments/assets/d5bfcdf9-bf25-404a-901f-5ce16f2408d5"></p>
 
----
-
-<p align="center"><img src="https://github.com/user-attachments/assets/59963749-996e-40e2-9550-8743125574f2"></p>
-
----
-
-<p align="center"><img src="https://github.com/user-attachments/assets/6a932214-473f-48c5-8d8e-fae73971dc53"></p>
-
----
-
-<p align="center"><img src="https://github.com/user-attachments/assets/3c7ef77c-e8b0-4eb4-9545-dbdcabea6ea3"></p>
-
+## 🛡️ Security Result
+> Users in **DemoCustomer_Gp1** now required to complete **Duo Multi-Factor Authentication** when accessing protected systems, preventing unauthorized access even if passwords are compromised. Let's create an **User account**.
 ---
 
