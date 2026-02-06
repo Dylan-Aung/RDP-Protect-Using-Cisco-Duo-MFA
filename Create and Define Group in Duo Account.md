@@ -1,6 +1,4 @@
-# Creating and Configuring Groups in Cisco Duo
-
-## 🔐 In this demo, we will:
+# 🔐 In this demo, we will:
 > ### how to create and configure a security group inside Cisco Duo Admin Panel to control Multi-Factor Authentication (MFA) behavior for users.
 
 ## Step 1 — Navigate to: `Users` >> `Groups`
