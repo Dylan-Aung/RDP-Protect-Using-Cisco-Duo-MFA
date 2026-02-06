@@ -34,13 +34,22 @@ This prevents attackers from accessing systems even if credentials are stolen vi
 
 ---
 
+<img width="533" height="405" alt="image" src="https://github.com/user-attachments/assets/1954c4aa-e4af-4773-bc62-6f40165400f8" />
+
+--- 
 
 <img width="357" height="437" alt="image" src="https://github.com/user-attachments/assets/6d355d99-52ef-4855-825f-01a41c23fb72" />
 
 ---
 
-
 <img width="326" height="424" alt="image" src="https://github.com/user-attachments/assets/53d0cabf-e7b0-4529-a3d4-74ded0e771e7" />
+
+---
+<p align="left"><img src="https://github.com/user-attachments/assets/ef96017d-bd2c-4398-b8ef-32771d110899"></p>
+<p align="right"><img src="https://github.com/user-attachments/assets/8a5500ba-64e0-46fc-a8f5-52008fe47462"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/a5bf08bc-1ac9-4d85-9f0c-424750d71234"></p>
+
+
 
 ---
 
@@ -70,6 +79,18 @@ This prevents attackers from accessing systems even if credentials are stolen vi
 ---
 
 <img width="252" height="349" alt="image" src="https://github.com/user-attachments/assets/9ba48023-f113-4be5-86f9-7283cf0db8c4" />
+
+---
+
+<img width="942" height="440" alt="image" src="https://github.com/user-attachments/assets/da9ef1f3-901b-4f00-95cd-1b5802f40618" />
+
+---
+
+<img width="942" height="357" alt="image" src="https://github.com/user-attachments/assets/59963749-996e-40e2-9550-8743125574f2" />
+
+---
+
+<img width="942" height="317" alt="image" src="https://github.com/user-attachments/assets/6a932214-473f-48c5-8d8e-fae73971dc53" />
 
 
 
