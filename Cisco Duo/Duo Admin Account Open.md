@@ -52,8 +52,9 @@ This prevents attackers from accessing systems even if credentials are stolen vi
 ## ⚙️ Now we are on `Admin John Doe Account`
 <img width="942" height="440" alt="image" src="https://github.com/user-attachments/assets/da9ef1f3-901b-4f00-95cd-1b5802f40618" />
 
+---
 
-
+> # The next step is going to create group >> [Create and Define Group in Duo Admin Account](https://github.com/Dylan-Aung/RDP-Protect-Using-Cisco-Duo-MFA/blob/main/Create%20and%20Define%20Group%20in%20Duo%20Account.md)
 
 
 
