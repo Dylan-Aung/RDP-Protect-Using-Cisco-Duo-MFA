@@ -15,5 +15,6 @@
 *	Window 11 (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise)
 *	Duo Mobile App (Can download Ios and Android)
 *	Duo Admin Account (https://duo.com/)
+*	Duo Window Logon Installer (https://duo.com/docs/checksums#duo-windows-logon)
 
 
