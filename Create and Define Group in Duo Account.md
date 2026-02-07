@@ -48,3 +48,5 @@ Best practice: keep the group set to **Active**.
 > Users in **DemoCustomer_Gp1** now required to complete **Duo Multi-Factor Authentication** when accessing protected systems, preventing unauthorized access even if passwords are compromised. Let's create an **User account**.
 ---
 
+> # The next step is going to create `Users` >> [Create an Users Account and Define Group in Duo Admin Account](https://github.com/Dylan-Aung/RDP-Protect-Using-Cisco-Duo-MFA/blob/main/Create%20an%20User%20Account.md)
+
