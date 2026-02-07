@@ -6,8 +6,13 @@
 
 ---
 
-## Before we install this application, we need to check this file hash is correct or not where the file hash mentioned.
+## Before we install this application on your device, we need to check this file hash is correct or not where the file hash mentioned.
+## `Open PowerShell` and run this command.
 ```
- Get-FileHash .\duo-win-login-5.2.1.exe -Algorithm SHA256
+Get-FileHash .\duo-win-login-5.2.1.exe -Algorithm SHA256
 ```
 <p align="center"><img src="https://github.com/user-attachments/assets/4715a678-787b-4764-8a4a-2b1cc7c95523"></p>
+
+---
+
+
