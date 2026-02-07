@@ -1,4 +1,4 @@
-<h1 align="center"> RDP-Protect-Using-Cisco-Duo-MFA </h1> 
+<h1 align="center"> Protecting Windows Server with Duo Application </h1> 
 <img width="1045" height="574" alt="image" src="https://github.com/user-attachments/assets/916bad04-af5b-48df-b9ba-3ff7902d5954" />
 
 <h2 align="center"> High-Level Workflow Diagram </h2>
