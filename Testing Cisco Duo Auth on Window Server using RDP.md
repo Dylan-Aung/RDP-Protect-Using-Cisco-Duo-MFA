@@ -52,7 +52,9 @@ The goal is to confirm:
 ---
 
 ## Now, you can control the Window Server
-<img width="942" height="495" alt="image" src="https://github.com/user-attachments/assets/7eef5dd3-111f-4d13-8580-6535aa11477a" />
+<p align="center"><img src="https://github.com/user-attachments/assets/7eef5dd3-111f-4d13-8580-6535aa11477a"></p>
+
+---
 
 # 🧠 Why This Matters
 > ## RDP is one of the main ransomware entry points.
