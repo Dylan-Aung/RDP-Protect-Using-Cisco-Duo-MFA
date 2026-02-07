@@ -10,11 +10,13 @@
 *	Infrastructure Hardening: Ensure compliance with security best practices for Windows Server environments.
 
 ### Technical Prerequisites
-*	Virtual Box (https://www.virtualbox.org/)
-*	Windows Server (https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=32a1545e94ca6f9833da42b695216ec9)
-*	Window 11 (https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise)
-*	Duo Mobile App (Can download Ios and Android)
-*	Duo Admin Account (https://duo.com/)
-*	Duo Window Logon Installer (https://duo.com/docs/checksums#duo-windows-logon)
 
+| **Name**      | **Links**               |
+|---------------|---------------------------|
+| Virtual Box | https://www.virtualbox.org/|
+| Windows Server | https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=32a1545e94ca6f9833da42b695216ec9 |
+| Window 11 | https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise |
+| Duo Admin Account | https://duo.com/ |
+| Duo Window Logon Installer | https://duo.com/docs/checksums#duo-windows-logon |
+| Duo Mobile App | **Can download Ios and Android** |
 
